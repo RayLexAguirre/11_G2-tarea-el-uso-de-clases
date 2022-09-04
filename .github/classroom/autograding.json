@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "La clase  Amount",
+      "setup": "npm install",
+      "run": "npm run test amount.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 19
+    },
+    {
+      "name": "La clase Product",
+      "setup": "",
+      "run": "npm run test product.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 18
+    },
+    {
+      "name": "La clase Item",
+      "setup": "",
+      "run": "npm run test item.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 36
+    },
+    {
+      "name": "La clase Cart",
+      "setup": "",
+      "run": "npm run test cart.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 27
+    }
+  ]
+}
